@@ -1,5 +1,8 @@
 // Your API key is: 1f0ef25771d74023a3118716b153dfc3
 
+// const API_KEY = "83a2977de37445ae9cf944767fa30e3c";
+// const url = "https://newsapi.org/v2/everything?q=";
+
 const API_KEY = "83a2977de37445ae9cf944767fa30e3c";
 const url = "https://newsapi.org/v2/everything?q=";
 
